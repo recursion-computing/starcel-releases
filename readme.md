@@ -3,7 +3,7 @@ A 3D desktop environment, visualizer, education tool, and more.
 This is the UE5 development branch. 
 | | |
 |:-------------------------------------:|:-------------------------------------:|
-![Commands and Features](/images/pbr.gif) Physically based rendering | ![Commands and Features](/images/pyls.png) Linux Commands in Python in Windows in Starcel
+![Commands and Features](/images/pbr.gif) Physically based rendering and bokeh camera controls | ![Commands and Features](/images/pyls.png) Linux Commands in Python in Windows in Starcel
 ![Commands and Features](/images/applications.png) 3D Application Icons: Each 3D icon is a file from your desktop that can be opened by clicking | ![Commands and Features](/images/scale.gif) Continuous Scaling: The player can be scaled up or down continuously. The speed of the player can be scaled similarly
 ![Commands and Features](/images/Plotting.png) Basic 3D Plotting and Quick Functions: Functions defined in the main python file can be called without parenthesis | ![Commands and Features](/images/p10ga.png) 10 Dimensional Projective Geometric Algebra powered by [GARAMON](https://github.com/vincentnozick/garamon) (Geometric Algebra Recursive and Adaptative Monster)
 ![Commands and Features](/images/maps.png) Google, Bing, and ArcGis maps | ![Commands and Features](/images/CMD.png) Run System Commands and System Processes
