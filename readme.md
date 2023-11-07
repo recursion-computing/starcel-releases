@@ -36,6 +36,8 @@ A 3D desktop environment, visualizer, education tool, and more.
 
 **What operating Systems are supported?** Windows only, Mac and Linux coming soon.
 
+**Will you open source?** I want to recoup the development cost, but it would be nice to see this project naturally grow. Some refactoring before release is necessary. The source may become available soon, so follow my socials for updates.
+
 ### Interested in Funny Paradoxes and Lambda Calculus?
 Check this video out!
 
