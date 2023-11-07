@@ -1,6 +1,6 @@
 # Starcel
 A 3D desktop environment, visualizer, education tool, and more. 
-This is the UE5 development branch. 
+
 | | |
 |:-------------------------------------:|:-------------------------------------:|
 ![Commands and Features](/images/pbr.gif) Physically based rendering and bokeh camera controls | ![Commands and Features](/images/pyls.png) Linux Commands in Python in Windows in Starcel
