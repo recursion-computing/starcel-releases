@@ -51,7 +51,7 @@ You can contact me by email, nick@recursion.is. You can donate on [Paypal](https
 [Download Windows x64 Portable](https://github.com/recursion-computing/starcel-releases/releases/download/Starcel/Starcel.Windows.x64.Demo.zip)
 
 A quick note on this release:\
-To submit a cell you will have to type ctrl+NUM*. This is because unreal engine did not allow capturing of ctrl+enter. It also has an engine bug where I would need to restart the entire project in order to fix the extra click needed to select and move objects. Currently, objects spawned will match your character rotation and scaling; this makes for spammy looking scenes, so we will eventually add autosnapping and alignment tools. Unfortunately, it will be a while before you see an update. Enjoy!
+To submit a cell you will have to type ctrl+NUM*. This is because unreal engine did not allow capturing of ctrl+enter. It also has an engine bug where I would need to restart the entire project in order to fix the extra click needed to select and move objects. Currently, objects spawned will match your character rotation and scaling; this makes for spammy looking scenes, so we will eventually add autosnapping and alignment tools. AR and XR support coming soon. I am told there is a Fatal Error when trying to start the program on some systems, this issue will not be in the next release; Starcel is switching code platforms entirely. Unfortunately, it will be a while before you see an update. Enjoy!
 
 It does not offer full python support, for that please visit any of the following:
 * https://github.com/recursion-computing/starcel-Panda3D (Platform Agnostic Networked Display Architecture 3D; I am currently developing on this branch)
